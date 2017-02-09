@@ -1,0 +1,3 @@
+/Users/fakturk/AndroidStudioProjects/sensor-graph/accelerometer/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/edit_cache.dir
+/Users/fakturk/AndroidStudioProjects/sensor-graph/accelerometer/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/rebuild_cache.dir
+/Users/fakturk/AndroidStudioProjects/sensor-graph/accelerometer/.externalNativeBuild/cmake/debug/arm64-v8a/CMakeFiles/accelerometergraph.dir

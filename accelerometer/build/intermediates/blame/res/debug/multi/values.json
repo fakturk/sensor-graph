@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/fakturk/AndroidStudioProjects/sensor-graph/accelerometer/build/intermediates/incremental/mergeDebugResources/merged.dir/values/values.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 75,
+                    "endOffset": 126
+                },
+                "from": {
+                    "file": "/Users/fakturk/AndroidStudioProjects/sensor-graph/accelerometer/src/main/res/values/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 859,
+                        "endColumn": 75,
+                        "endOffset": 930
+                    }
+                }
+            }
+        ]
+    }
+]

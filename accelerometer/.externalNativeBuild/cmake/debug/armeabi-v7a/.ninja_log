@@ -1,0 +1,7 @@
+# ninja log v5
+0	221	0	CMakeFiles/accelerometergraph.dir/sensorgraph.cpp.o	9bf2589cca8b74d1
+221	293	0	/Users/fakturk/AndroidStudioProjects/sensor-graph/accelerometer/build/intermediates/cmake/debug/obj/armeabi-v7a/libaccelerometergraph.so	c1e8336ca3ed09f8
+1	220	0	CMakeFiles/accelerometergraph.dir/sensorgraph.cpp.o	9bf2589cca8b74d1
+220	292	0	/Users/fakturk/AndroidStudioProjects/sensor-graph/accelerometer/build/intermediates/cmake/debug/obj/armeabi-v7a/libaccelerometergraph.so	c1e8336ca3ed09f8
+0	228	0	CMakeFiles/accelerometergraph.dir/sensorgraph.cpp.o	9bf2589cca8b74d1
+228	282	0	/Users/fakturk/AndroidStudioProjects/sensor-graph/accelerometer/build/intermediates/cmake/debug/obj/armeabi-v7a/libaccelerometergraph.so	c1e8336ca3ed09f8
